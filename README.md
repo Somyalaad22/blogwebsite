@@ -1,2 +1,6 @@
-# blogwebsite
- The Idea Nest is a MERN stack blog app using MongoDB, Express, React, and Node.js. Users can create, read, update, and delete posts, register, and log in. It's fast, responsive, customizable, and features robust authentication—perfect for modern full-stack web development.
+# mern-stack-blog-app
+complete mern stack blog application source code 2023
+
+# please check branches more code coming soon !
+Dont forgot follow on github as well 
+##  thanks for watching techinfoyt
